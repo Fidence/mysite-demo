@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2733b6c7.css",
+    "main.js": "/static/js/main.ca37b618.js",
+    "static/media/hero.png": "/static/media/hero.ea2a46f0762cda5ee36a.png",
+    "static/media/bg1.png": "/static/media/bg1.6faea1922b3ae21a385c.png",
+    "static/media/training.jpg": "/static/media/training.d9e2e8ce35c604567b6f.jpg",
+    "static/media/digital.jpg": "/static/media/digital.fd1c1de7bf420a9b8d28.jpg",
+    "static/media/im1.jpg": "/static/media/im1.998d68a813c71337565b.jpg",
+    "static/media/logo.png": "/static/media/logo.8c162fc7290070ce83f1.png",
+    "static/media/ICT.jpg": "/static/media/ICT.a16109565b296b3479b1.jpg",
+    "static/media/junior.png": "/static/media/junior.eebd17c7e259c00728cf.png",
+    "static/media/bg3.png": "/static/media/bg3.71eaa5206b411ce03909.png",
+    "static/media/bg2.png": "/static/media/bg2.b6f9c8d53c2a3248e30c.png",
+    "static/media/bg4.png": "/static/media/bg4.b04aae286d510e78acc3.png",
+    "static/media/404.png": "/static/media/404.c2057f75312d7d100018.png",
+    "static/media/cg_main.png": "/static/media/cg_main.ed39ffbea01ea9efbc6f.png",
+    "static/media/blog.jpeg": "/static/media/blog.5384720dcdf37d92f400.jpeg",
+    "static/media/safe_image.jpg": "/static/media/safe_image.7a4c283894099be086c0.jpg",
+    "static/media/bgb.svg": "/static/media/bgb.831a7681b085f971a3f2.svg",
+    "static/media/land.svg": "/static/media/land.b61cd79fccd3fd98119e.svg",
+    "index.html": "/index.html",
+    "static/media/notification.svg": "/static/media/notification.4b167ff15e69bf8c380110174f43cd2f.svg",
+    "static/media/quote.svg": "/static/media/quote.bf639b0e351a4135d23c90bf4baca88e.svg",
+    "static/media/connect.svg": "/static/media/connect.6bd4dc6242bed756e261d7167d8ed99e.svg",
+    "static/media/create.svg": "/static/media/create.3f5e0be4505b8c1f093be285aa113392.svg",
+    "static/media/learn.svg": "/static/media/learn.cbc355900545de30d4071ee27a0e916d.svg",
+    "static/media/location.svg": "/static/media/location.f2cde29b49fc04d37f172abb620c4257.svg",
+    "static/media/member.svg": "/static/media/member.552b2489ee14a2c7ac49e4cf3ab0a38f.svg",
+    "main.2733b6c7.css.map": "/static/css/main.2733b6c7.css.map",
+    "main.ca37b618.js.map": "/static/js/main.ca37b618.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2733b6c7.css",
+    "static/js/main.ca37b618.js"
+  ]
+}
